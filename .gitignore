@@ -1,0 +1,5 @@
+wind_output/
+__pycache__/
+python/
+*.dll
+*.so
